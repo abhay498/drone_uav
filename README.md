@@ -1,5 +1,6 @@
-# drone_uav
+
 Components used in building the Open source Unmanned aerial vehicle commonly known as drone
+--------------------------------------------------------------------------------------------
 
 1. Pixhawk flight controller
 2. Shock absorber
@@ -17,7 +18,13 @@ Components used in building the Open source Unmanned aerial vehicle commonly kno
 14. ESC-battery bullet connector
 
 Tools needed:
+--------------------------------------------------------------------------------------------
+
 1. Teflon tape
 2. 10 or 12 AWG wire for the battery
 3. Appropriate battery connector, especially XT60
-   
+
+Additional parts:
+--------------------------------------------------------------------------------------------
+
+1. FlySky Data Cable USB
