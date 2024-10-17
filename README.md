@@ -24,7 +24,7 @@ Components used in building the Open source Unmanned aerial vehicle commonly kno
       calibrates their throttle range at the same time. It can be used for tricopters, quadcopters, hexacopters, and octocopters.
 
       ![Alt text](https://github.com/abhay498/drone_uav/blob/main/Throttle_calibration_hub_front.jpeg)
-            
+      ![Alt text]()
 Tools needed:
 --------------------------------------------------------------------------------------------
 
