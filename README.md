@@ -23,7 +23,7 @@ Components used in building the Open source Unmanned aerial vehicle commonly kno
     - A throttle calibration hub distributes throttle signals to multiple electronic speed controllers (ESCs) and
       calibrates their throttle range at the same time. It can be used for tricopters, quadcopters, hexacopters, and octocopters.
 
-      ![Alt text] (https://github.com/abhay498/drone_uav/blob/main/Throttle_calibration_hub_front.jpeg)
+      ![Alt text](https://github.com/abhay498/drone_uav/blob/main/Throttle_calibration_hub_front.jpeg)
             
 Tools needed:
 --------------------------------------------------------------------------------------------
