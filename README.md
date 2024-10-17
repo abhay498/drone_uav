@@ -19,7 +19,12 @@ Components used in building the Open source Unmanned aerial vehicle commonly kno
 15. LiPo battery balance charger, iMAX B6 AC Lipo NiMh Li-ion Ni-Cd RC
 16. ESC-battery bullet connector
 17. XT60 or banana plug connectors.
+18. Self made Good working Throttle calibration hub
+    - A throttle calibration hub distributes throttle signals to multiple electronic speed controllers (ESCs) and
+      calibrates their throttle range at the same time. It can be used for tricopters, quadcopters, hexacopters, and octocopters.
 
+      
+            
 Tools needed:
 --------------------------------------------------------------------------------------------
 
