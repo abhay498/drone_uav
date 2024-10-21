@@ -1,4 +1,9 @@
 
+Drone design:
+--------------------------------------------------------------------------------------------
+ ![Alt text](https://github.com/abhay498/drone_uav/blob/main/Drone_design.jpg)
+
+ 
 Components used in building the Open source Unmanned aerial vehicle commonly known as drone
 --------------------------------------------------------------------------------------------
 
@@ -25,7 +30,6 @@ Components used in building the Open source Unmanned aerial vehicle commonly kno
 
       ![Alt text](https://github.com/abhay498/drone_uav/blob/main/Throttle_calibration_hub_front.jpeg)
       ![Alt text](https://github.com/abhay498/drone_uav/blob/main/Throttle_calibration_hub_back.jpeg)
-
 
 Tools needed:
 --------------------------------------------------------------------------------------------
