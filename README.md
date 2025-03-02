@@ -1,10 +1,14 @@
-Drone
+Drone:
 --------------------------------------------------------------------------------------------
 ![Alt text](https://github.com/abhay498/drone_uav/blob/main/Drone_GitHub_Linkedln.jpg)
 
+Mission planner snapshot:
+--------------------------------------------------------------------------------------------
+![Alt text](https://github.com/abhay498/drone_uav/blob/main/Mission_planner.PNG)
+
 Drone design:
 --------------------------------------------------------------------------------------------
- ![Alt text](https://github.com/abhay498/drone_uav/blob/main/Drone_design.jpg)
+![Alt text](https://github.com/abhay498/drone_uav/blob/main/Drone_design.jpg)
 
  
 Components used in building the Open source Unmanned aerial vehicle commonly known as drone
