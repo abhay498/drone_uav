@@ -12,7 +12,7 @@ Drone design:
 
 Drone in Flight:
 --------------------------------------------------------------------------------------------
-![Alt text]()
+![Alt text](https://github.com/abhay498/drone_uav/blob/main/Drone_in_Flight.gif)
 
 Components used in building the Open source Unmanned aerial vehicle commonly known as drone
 --------------------------------------------------------------------------------------------
